@@ -34,6 +34,8 @@ As shown from the following results, the network can successfully differentiated
 ![](./images/result4.png)
 ![](./images/result5.png)
 ![](./images/result6.png)
+![](./images/result7.png)
+![](./images/result8.png)
 
 ## Lesson Learned
 According to the research I conducted, I found that there are 3 crucial points to notice when building Siamese network:
