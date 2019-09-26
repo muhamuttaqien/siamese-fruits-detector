@@ -16,7 +16,7 @@ I turned the training images into Luminance-based (not RGB) images in order to a
 
 ## Test Images
 
-Test Images cover six classes of fruits and vegetables variants. All was never seen by the network when trained:
+Test Images cover six classes of fruits and vegetables variants. All the classes were not included when I trained the network:
 
 * Strawberry
 * Tomato Cherry Red
