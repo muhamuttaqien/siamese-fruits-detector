@@ -13,7 +13,7 @@ Datasets obtained and carefully filtered from [Kaggle Fruit 360](https://www.kag
 To research and implement the technique, I'm supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
 
 ## Lesson Learned
-According to my research, I noted that there are 3 crucial points of building siamese network:
+According to my research, I noted that there are 3 crucial points of building Siamese network:
 
 1. Datasets we obtain to train the network must be balanced with as many positive as negative samples since we want the network to learn well similarity function, otherwise learning process doesn’t meet desired result
 2. The layers in the two subnetwork must share the same weights each other. This allows the network to learn symmetrically when capturing meaningful features for a pair of input image
