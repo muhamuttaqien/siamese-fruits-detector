@@ -14,6 +14,19 @@ I turned the training images into Luminance-based (not RGB) images in order to a
 
 ![](./images/training_images.png)
 
+## Test Images
+
+Test Images cover six classes of fruits and vegetables variants. All the classes were not included when I trained the network:
+
+* Strawberry
+* Tomato Cherry Red
+* Pepper Yellow
+* Cauliflower
+* Grapefruit Pink
+* Guava
+* Clementine
+* Physalis with Husk
+
 ## Deep Learning Framework
 
 To research and implement the technique, I was supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
@@ -26,7 +39,7 @@ To research and implement the technique, I was supported by two popular open-sou
 
 As shown from the following results, the network can successfully differentiated all testing images. When the pair of two simillar images but categorized in the same class were fed into the network, it can predicted its dissimilarity in lowest score.
 
-> Note that, these testing images were never seen by the network during training process!
+> Note that, these variety of fruits and vegetables were never seen by the network during training process!
 
 #### Pepper Yellow
 
