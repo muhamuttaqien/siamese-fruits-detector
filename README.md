@@ -17,6 +17,8 @@ According to my research, I noted that there are 3 crucial points of building si
 
 ```
 1. Datasets we obtain to train the network must be balanced with as many positive as negative samples since we want the network to learn well similarity function, otherwise learning process doesn’t meet desired result
-2. The layers in the     two subnetwork must share the same weights each other. This allows the network to learn symmetrically when capturing meaningful features for a pair of input image
+
+2. The layers in the two subnetwork must share the same weights each other. This allows the network to learn symmetrically when capturing meaningful features for a pair of input image
+
 3. Calculating the squared distances of the feature vectors. To measure the performance of the network, we can experience with three popular distance metrics proposed by research including binary-cross entropy, contrastive and triplet loss. For my case, I used contrastive loss to lead learning process into good result
 ```
