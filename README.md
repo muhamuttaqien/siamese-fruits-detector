@@ -44,6 +44,6 @@ According to the research I conducted, I found that there are 3 crucial points w
 
 This project requires **Python 3.6** and the following Python libraries installed:
 
-* [NumPy](http://www.numpy.org/)
-* [PIL 1.1.7](https://pillow.readthedocs.io/)
-* [matplotlib](http://matplotlib.org/)
+* [NumPy](www.numpy.org/)
+* [PIL 1.1.7](pillow.readthedocs.io/)
+* [matplotlib](matplotlib.org/)
