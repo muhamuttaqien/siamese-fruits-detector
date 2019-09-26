@@ -1,6 +1,6 @@
 # Siamese Fruits Detector
 
-Computer Vision project to detect different varieties of fruits and vegetables included: Apple, Banana, Eggplant, Lychee, Mango, Onion Orange, Pear, Potato etc using [Siamese Network](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf), one of powerful one-shot-learning techniques currently getting increasingly popular in Deep Learning research and applications.
+Computer Vision project to detect different varieties of fruits and vegetables included: Apple, Banana, Eggplant, Lychee, Mango, Onion, Orange, Pear, Potato etc using [Siamese Network](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf), one of powerful one-shot-learning techniques currently getting increasingly popular in Deep Learning research and applications.
 
 ## Datasets
 
