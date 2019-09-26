@@ -23,6 +23,9 @@ To research and implement the technique, I'm supported by two popular open-sourc
 ![](./images/final_train_loss.png)
 
 ## Work Results
+
+As shown from the following results, the network can successfully differentiated all testing images. When the pair of two same images (Pepper Yellow) was fed into the network, it can predicted its dimisimalirity score in lowest score.
+
 ![](./images/result1.png)
 ![](./images/result2.png)
 ![](./images/result3.png)
