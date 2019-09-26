@@ -18,7 +18,7 @@ I turned the training images into Luminance-based (not RGB) images in order to a
 
 To research and implement the technique, I was supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
 
-## Evaluation
+## Learning Process
 
 ![](./images/final_train_loss.png)
 
