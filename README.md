@@ -21,7 +21,9 @@ To research and implement the technique, I'm supported by two popular open-sourc
 ## Evaluation
 
 ![](./images/final_train_loss.png)
-![](result1.png)
+
+## Prediction
+![](./images/result1.png)
 
 ## Lesson Learned
 According to my research, I noted that there are 3 crucial points of building Siamese network:
