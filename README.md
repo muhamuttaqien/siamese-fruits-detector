@@ -26,6 +26,7 @@ To research and implement the technique, I'm supported by two popular open-sourc
 ![](./images/result1.png)
 ![](./images/result2.png)
 ![](./images/result6.png)
+![](./images/result3.png)
 
 ## Lesson Learned
 According to my research, I noted that there are 3 crucial points of building Siamese network:
