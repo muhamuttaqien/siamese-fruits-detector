@@ -22,7 +22,7 @@ To research and implement the technique, I'm supported by two popular open-sourc
 
 ![](./images/final_train_loss.png)
 
-## Prediction
+## Work Results
 ![](./images/result1.png)
 ![](./images/result2.png)
 ![](./images/result3.png)
