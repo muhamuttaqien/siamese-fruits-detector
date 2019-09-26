@@ -8,6 +8,12 @@ Datasets obtained and carefully filtered from [Kaggle Fruit 360](https://www.kag
 
 ![](./images/datasets_images.png)
 
+## Train Images
+
+I turned the training images into Luminance-based (not RGB) images in order to avoid the network cheating the colour of fruits or vegetables when predicting its similarity.
+
+![](./images/train_images.png)
+
 ## Deep Learning Framework
 
 To research and implement the technique, I'm supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
