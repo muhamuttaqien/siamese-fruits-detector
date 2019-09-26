@@ -33,6 +33,13 @@ To research and implement the technique, I was supported by two popular open-sou
 
 ## Learning Process
 
+Hyper-parameters I set to train the network were:
+
+* BATCH_SIZE = 64
+* N_EPOCHS = 20
+* LR = 0.0005
+* Optimizer = Adam
+
 ![](./images/final_train_loss.png)
 
 ## Work Results
