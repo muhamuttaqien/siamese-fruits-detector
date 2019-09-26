@@ -26,7 +26,7 @@ To research and implement the technique, I was supported by two popular open-sou
 
 As shown from the following results, the network can successfully differentiated all testing images. When the pair of two simillar images but categorized in the same class were fed into the network, it can predicted its dissimilarity in lowest score.
 
-> Note that, these testing images were never seen by the network during training process!
+> Note that, these variety of fruits and vegetables were never seen by the network during training process!
 
 #### Pepper Yellow
 
