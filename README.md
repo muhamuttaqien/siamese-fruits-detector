@@ -39,6 +39,7 @@ Hyper-parameters I set to train the network were:
 * N_EPOCHS = 20
 * LR = 0.0005
 * Optimizer = Adam
+* Loss Function = Contrastive Loss
 
 ![](./images/final_train_loss.png)
 
