@@ -14,6 +14,19 @@ I turned the training images into Luminance-based (not RGB) images in order to a
 
 ![](./images/training_images.png)
 
+## Test Images
+
+Test Images cover six classes of fruits and vegetables variants. All was never seen by the network when trained:
+
+* Strawberry
+* Tomato Cherry Red
+* Pepper Yellow
+* Cauliflower
+* Grapefruit Pink
+* Guava
+* Clementine
+* Physalis with Husk
+
 ## Deep Learning Framework
 
 To research and implement the technique, I was supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
