@@ -31,7 +31,7 @@ To research and implement the technique, I'm supported by two popular open-sourc
 ![](./images/result6.png)
 
 ## Lesson Learned
-According to my research, I noted that there are 3 crucial points of building Siamese network:
+According to the research I conducted, I found that there are 3 crucial points when building Siamese network:
 
 1. Datasets we obtain to train the network must be balanced with as many positive as negative samples since we want the network to learn well similarity function, otherwise learning process doesn’t meet desired result
 2. The layers in the two subnetwork must share the same weights each other. This allows the network to learn symmetrically when capturing meaningful features for a pair of input image
