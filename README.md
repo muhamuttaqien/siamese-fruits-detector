@@ -16,7 +16,7 @@ I turned the training images into Luminance-based (not RGB) images in order to a
 
 ## Deep Learning Framework
 
-To research and implement the technique, I'm supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
+To research and implement the technique, I was supported by two popular open-source Deep Learning framework, namely: [Pytorch](https://pytorch.org/) and [ReNom](https://renom.jp).
 
 ## Evaluation
 
