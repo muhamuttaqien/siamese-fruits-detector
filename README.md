@@ -6,7 +6,7 @@ Computer Vision project to detect different varieties of fruits and vegetables i
 
 Datasets obtained and carefully filtered from [Kaggle Fruit 360](https://www.kaggle.com/moltean/fruits) consisting of 82213 RGB images of 120 fruits and vegetables.
 
-![](images/datesets_images.png)
+![](datesets_images.png)
 
 ## Deep Learning Framework
 
