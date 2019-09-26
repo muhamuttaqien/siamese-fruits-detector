@@ -39,6 +39,21 @@ As shown from the following results, the network can successfully differentiated
 ![](./images/result7.png)
 ![](./images/result8.png)
 
+#### Tomato Cherry Red
+
+![](./images/result9.png)
+![](./images/result10.png)
+
+#### Grapefruit Pink
+
+![](./images/result11.png)
+![](./images/result12.png)
+
+#### Physalis with Husk
+
+![](./images/result13.png)
+![](./images/result14.png)
+
 ## Lesson Learned
 According to the research I conducted, I found that there are 3 crucial points to notice when building Siamese network:
 
