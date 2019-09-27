@@ -43,7 +43,7 @@ Hyper-parameters I set to train the network were:
 
 ![](./images/final_train_loss.png)
 
-The plot showed that the model learns the problem fast, achieving a low loss within just a few training epochs.
+The plot showed that the model learned the problem fast, achieving a low loss within just a few training epochs.
 
 ## Work Results
 
