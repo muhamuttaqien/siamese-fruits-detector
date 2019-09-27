@@ -10,7 +10,7 @@ Datasets was obtained and carefully filtered from [Kaggle Fruit 360](https://www
 
 ## Train Images
 
-I turned the training images into Luminance-based (not RGB) images in order to avoid the network cheating the colour of fruits or vegetables when predicting the dissimilarity score of two input images.
+I turned the training images into Luminance-based (not RGB) images in order to avoid the network cheating the colour of fruits or vegetables when predicting the dissimilarity score of two input images. For each class of train images only contains 10 images to train the network.
 
 ![](./images/training_images.png)
 
