@@ -10,7 +10,7 @@ Datasets was obtained and carefully filtered from [Kaggle Fruit 360](https://www
 
 ## Train Images
 
-I turned the training images into Luminance-based (not RGB) images in order to avoid the network cheating the colour of fruits or vegetables when predicting the dissimilarity score of two input images. For each class of train images only contains 10 images to train the network.
+I turned the training images into Luminance-based (not RGB) images in order to avoid the network cheating the colour of fruits or vegetables while predicting the dissimilarity score of two input images. For each class of train images only contains 10 images to train the network.
 
 ![](./images/training_images.png)
 
@@ -42,6 +42,8 @@ Hyper-parameters I set to train the network were:
 * Loss Function = Contrastive Loss
 
 ![](./images/final_train_loss.png)
+
+The plot showed that the model learns the problem fast, achieving a low loss within just a few training epochs.
 
 ## Work Results
 
@@ -80,7 +82,7 @@ According to the research I conducted, I found that there are 3 crucial points t
 
 1. Datasets we obtain to train the network must be balanced with as many positive as negative samples since we want the network to learn well similarity function, otherwise learning process doesn’t meet desired result
 
-2. The layers in the two subnetwork must share the same weights each other. This allows the network to learn symmetrically when capturing meaningful features for a pair of input image
+2. The layers in the two subnetwork must share the same weights each other. This allows the network to learn symmetrically while capturing meaningful features for a pair of input image
 
 3. Calculating the squared distances of the feature vectors. To measure the performance of the network, we can experience with three popular distance metrics proposed by research including binary-cross entropy, contrastive and triplet loss. For my case, I used contrastive loss to lead learning process into good result
 
